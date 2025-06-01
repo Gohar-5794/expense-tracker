@@ -1,3 +1,6 @@
+M.Gohar F2023105271
+Abdullah Haroon F2023105281
+
 # Expense Tracker
 
 A simple command-line expense tracker built with Python. It allows users to log and view expenses in different categories.
